@@ -1,5 +1,5 @@
 
-# Programming for Data Science: Final Project
+# (**portfolioFactory**):a simple Python package to build cross-sectional equity portfolios
 
 ## Team Members
 
@@ -9,7 +9,7 @@ Israel Malkin (IM965)
 
 ## What is it
 
-For our project, we wrote a Python package (**portfolioFactory**) that streamlines the process for building cross-sectional trading strategies/factors. 
+A Python package (**portfolioFactory**) that streamlines the process for building cross-sectional trading strategies/factors. 
 In our examples, we show how you can easily use **portfolioFactory** to implement [**momentum**][momentum] (i.e. buy the winners) strategies with different 
 horizons and selection criteria. In addition, we demonstrate the flexibility of the package by building generic cross-sectional strategy based on realized volatility.
 
