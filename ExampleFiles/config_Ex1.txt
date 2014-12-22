@@ -1,0 +1,4 @@
+name = first example strategy
+signalPath = ./ExampleFiles/rolling_returns_12m
+rebalanceWindow = 12
+rule = 300
